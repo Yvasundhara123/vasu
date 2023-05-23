@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://as1.ftcdn.net/v2/jpg/01/15/37/38/1000_F_115373884_VQ8gTC1bs9OZ1Ijwp56XMWgbKZZsIEHe.jpg");
+}
+h1{
+    text-align: center;
+}
+.hi,nav,.new{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:black;
+}
+  
+div{
+    color: #fff;
+    font-size: smaller;
+}
+  
+button{
+    font-size: medium;
+    font-style: oblique;
+    margin-top: 15px;
+    margin-left: 50px;
+    
+}
+body{
+    background-size: cover;
+}

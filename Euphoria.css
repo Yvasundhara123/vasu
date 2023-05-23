@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://wallup.net/wp-content/uploads/2016/07/19/9346-jumping-dancing.jpg") 
+     }
+h1{
+    text-align: center;
+}
+.hi,nav,.new{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:black;
+}
+  
+div{
+    color: #fff;
+    font-size: smaller;
+}
+  
+button{
+    font-size: medium;
+    font-style: oblique;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+
+

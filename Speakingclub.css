@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://c8.alamy.com/comp/2A6Y112/microphone-stands-on-stage-in-a-nightclub-bright-club-light-shines-on-mic-performances-in-the-night-club-2A6Y112.jpg");
+}
+h1{
+    text-align: center;
+}
+.hi,nav,.new{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:black;
+}
+  
+div{
+    color: #fff;
+    font-size: smaller;
+}
+  
+button{
+    font-size: medium;
+    font-style: oblique;
+    margin-top: 15px;
+    margin-left: 50px;
+    
+}
+body{
+    background-size: cover;
+}
